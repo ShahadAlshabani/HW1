@@ -19,7 +19,7 @@ margin: 50px;
 /* Header styles */
 
 header {
-background-image: url('/images/soup.jpg');
+background-image: url('./images/soup.jpg');
 background-size: cover;
 background-position: center;
 height: 400px;
